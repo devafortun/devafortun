@@ -1,5 +1,3 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
-
 <div style="display: flex; align-items: center">
   <h1> 
     About Me
@@ -13,8 +11,6 @@
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
-
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
 # Hi there, Senior fullstack developer 👋
 <!--
