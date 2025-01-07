@@ -1,6 +1,28 @@
-# Hi there, Senior fullstack developer 👋
-<!--
-SatoruSaito/SatoruSaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex;  flex-direction: row; justify-content: center; align-items: center;">
+      <a href="https://t.me/ardent916" style="color: blue; font-size:25px; text-decoration: none;" 
+      onmouseover="this.style.textDecoration='underline'" 
+      onmouseout="this.style.textDecoration='none'">
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="⚡Fullstack Developer⚡" title="⚡Fullstack Developer⚡"/>
+      </a>
+</div>
+
+<br>
+
+### 💎 ABOUT ME
+
+- **Dynamic full-stack developer** with 5 years of experience in software development.✨
+- Passionate about overcoming challenges and dedicated to leveraging my skills to help startups become industry leaders.💯
+- Committed to **enhancing community engagement and leadership** through programming.👨‍👩‍👧‍👦
+- I value **friendship, time, and trust** in all professional relationships.👯‍♂️
+  
+<!--- 
+### 🌐 Connect with me:  
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/softlight1012) - @softlight1012
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/vhUyzmWz) - polygon118
+- [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b
+- [![Email](https://img.shields.io/badge/Email-mailto%3Aruka59171%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:ruka59171@gmail.com)
+
+-->
 
 ### ⚔ TECHNOLOGY
 
@@ -169,15 +191,23 @@ SatoruSaito/SatoruSaito** is a ✨ _special_ ✨ repository because its `README.
 </p>
 -->
 
-## Here are some ideas to get you started:
+## GitHub Profile Trophy 🏆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=HP319193&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HP319193&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+<p align="center">
+<a href="https://github.com/HP319193?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=HP319193&theme=onestar&no-frame=true&column=3&row=2" width="50%" height="50%" alt="@HP319193's trophy stats"/></a>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
