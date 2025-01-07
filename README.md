@@ -204,9 +204,5 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center">
-<a href="https://github.com/JoseSantos5455?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=JoseSantos5455&theme=onestar&no-frame=true&column=3&row=2" width="50%" height="50%" alt="@HP319193's trophy stats"/></a>
-</p>
-
 <p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
