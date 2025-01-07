@@ -1,11 +1,12 @@
 <div style="display: flex;  flex-direction: row; justify-content: center; align-items: center;">
+   <h1 align="center" >
       <a href="https://t.me/ardent916" style="color: blue; font-size:25px; text-decoration: none;" 
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="⚡Fullstack Developer⚡" title="⚡Fullstack Developer⚡"/>
+       <b>⚡Fullstack Developer⚡</b>
       </a>
+   </h1> 
 </div>
-
 <br>
 
 ### 💎 ABOUT ME
@@ -187,26 +188,24 @@
 <!-- activity graph heroku-app end -->
 <!--
 <p align="center">
-<a href="https://github.com/Polymath1108?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Oliver96118&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/JoseSantos5455?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=JoseSantos54558&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
 </p>
 -->
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoseSantos5455&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=HP319193&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HP319193&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=JoseSantos5455&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseSantos5455&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/HP319193?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=HP319193&theme=onestar&no-frame=true&column=3&row=2" width="50%" height="50%" alt="@HP319193's trophy stats"/></a>
+<a href="https://github.com/JoseSantos5455?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=JoseSantos5455&theme=onestar&no-frame=true&column=3&row=2" width="50%" height="50%" alt="@HP319193's trophy stats"/></a>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
