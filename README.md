@@ -192,7 +192,7 @@
 </p>
 -->
 
-## GitHub Profile Trophy 🏆
+### 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JoseSantos5455&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
