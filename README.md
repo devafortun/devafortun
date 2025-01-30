@@ -204,5 +204,5 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
