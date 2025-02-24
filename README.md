@@ -255,5 +255,4 @@
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p> -->
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p> -->
 
-![snake gif](https://raw.github.com/devafortun/devafortun/output/github-contribution-grid-snake.svg)
 ![Snake gif](https://github.com/devafortun/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
