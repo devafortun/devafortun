@@ -252,7 +252,6 @@
     </a>
 </p>
 <!-- activity graph heroku-app end -->
-![snake gif](https://github.com/devafortun/devafortun/blob/output/github-contribution-grid-snake-dark.svg)
-
-<p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
+<!-- <p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p> -->
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p> -->
+![snake gif](https://github.com/devafortun/devafortun/blob/output/github-contribution-grid-snake.svg)
