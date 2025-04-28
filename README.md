@@ -11,11 +11,6 @@
 
 ### 💎 ABOUT ME
 
-- **Dynamic full-stack developer** with 5 years of experience in software development.✨
-- Passionate about overcoming challenges and dedicated to leveraging my skills to help startups become industry leaders.💯
-- Committed to **enhancing community engagement and leadership** through programming.👨‍👩‍👧‍👦
-- I value **friendship, time, and trust** in all professional relationships.👯‍♂️
-
 <!---
 ### 🌐 Connect with me:
 - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/softlight1012) - @softlight1012
